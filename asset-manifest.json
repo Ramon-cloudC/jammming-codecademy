@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jammming-codecademy/static/css/main.375b95f2.css",
+    "main.js": "/jammming-codecademy/static/js/main.dfe08bb6.js",
+    "index.html": "/jammming-codecademy/index.html",
+    "main.375b95f2.css.map": "/jammming-codecademy/static/css/main.375b95f2.css.map",
+    "main.dfe08bb6.js.map": "/jammming-codecademy/static/js/main.dfe08bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375b95f2.css",
+    "static/js/main.dfe08bb6.js"
+  ]
+}
