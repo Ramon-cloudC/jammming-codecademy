@@ -1,0 +1,39 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    background-image: url("https://www.schoolofbollywoodmusic.com/wp-content/uploads/2021/09/Image-8-Complete-Guide-to-Upload-Your-Music-on-Spotify-1.jpg");
+    background-size: cover;
+    background-position: bottom;
+}
+
+.h1{
+    color: #000;
+    font-size: 3rem;
+    margin: 5rem 0;
+    border: 3px solid  hsla(31, 99%, 67%, 0.872);
+    padding: 2rem;
+    border-radius: 50px;
+    background-color: #fff;
+    opacity: 0.8;
+    background-position: top;
+}
+
+.paragraph{
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+.input{
+    font-size: 1.2rem;
+    margin-bottom: 3rem;
+    padding: 1.1rem;
+}
+
+.button{
+    padding: 1.1rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
