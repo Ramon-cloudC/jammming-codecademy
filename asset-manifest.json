@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jammming-codecademy/static/css/main.375b95f2.css",
-    "main.js": "/jammming-codecademy/static/js/main.dfe08bb6.js",
+    "main.css": "/jammming-codecademy/static/css/main.0d8ad340.css",
+    "main.js": "/jammming-codecademy/static/js/main.282b55a8.js",
     "index.html": "/jammming-codecademy/index.html",
-    "main.375b95f2.css.map": "/jammming-codecademy/static/css/main.375b95f2.css.map",
-    "main.dfe08bb6.js.map": "/jammming-codecademy/static/js/main.dfe08bb6.js.map"
+    "main.0d8ad340.css.map": "/jammming-codecademy/static/css/main.0d8ad340.css.map",
+    "main.282b55a8.js.map": "/jammming-codecademy/static/js/main.282b55a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.375b95f2.css",
-    "static/js/main.dfe08bb6.js"
+    "static/css/main.0d8ad340.css",
+    "static/js/main.282b55a8.js"
   ]
 }
