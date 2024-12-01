@@ -5,6 +5,8 @@
     justify-content: start;
     align-items: start;
     gap: 2rem;
+    max-height: 100%;
+    overflow-y: auto;
     background-color: hsla(31, 99%, 67%, 0.872);
 }
 
@@ -19,6 +21,9 @@
     align-self: center;
     padding: 1.2rem;
     width: 70%;
+    background-color: hsla(31, 99%, 67%, 0.872) ;
+    border: none;
+    border-bottom: 2px solid #000;
 }
 
 .unordList{
@@ -39,4 +44,12 @@
     background: none;
     border: none;
     cursor: pointer;
+}
+
+.saveToSPotify{
+    align-self: center;
+    font-size: 1.2rem;
+    padding: 1.2rem;
+    border-radius: 50px;
+    background-color: #fff;
 }

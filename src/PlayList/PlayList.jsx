@@ -13,6 +13,7 @@ function PlayList(props){
             <ul>
                 {trackToPlaylist.map((addedTracks)=> <li className={styles.list} key={addedTracks.id}>{addedTracks.name} - {addedTracks.artist}<button className={styles.button} onClick={()=>props.removeTracks(addedTracks)}>-</button></li>)}
             </ul>
+            <button className={styles.saveToSPotify}>SAVE TO SPOTIFY</button>
         </div>
     )
 }
